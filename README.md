@@ -28,6 +28,25 @@ Key Metrics
 - Lead-to-Customer Conversion Rate: (Customers / Leads) × 100
 - Overall Conversion Rate: (Customers / Visitors) × 100
 
-Project Status
+Results and Insights
 
-In Progress
+The marketing funnel analysis produced the following findings:
+
+- Email: Highest overall conversion rate at 4.00%.
+- Google Ads: Highest number of customers, with 121 customers and an overall conversion rate of approximately 2.47%.
+- Social Media: Lowest overall conversion rate at 1.00%.
+
+Recommendations
+
+1. Analyze the successful email campaigns and apply their effective strategies to other channels.
+2. Investigate why social media visitors convert at a lower rate.
+3. Continue monitoring Google Ads because it generates the highest number of customers in this sample dataset.
+4. Track conversion rates regularly to measure improvements.
+
+Visualization
+
+A bar chart was created in Google Colab to compare the overall conversion rates of Email, Google Ads, and Social Media.
+
+Conclusion
+
+In this sample dataset, Email has the highest conversion rate, while Google Ads generates the most customers. Improving social media conversion could help increase overall marketing performance.
