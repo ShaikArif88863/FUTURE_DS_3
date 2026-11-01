@@ -50,3 +50,7 @@ A bar chart was created in Google Colab to compare the overall conversion rates 
 Conclusion
 
 In this sample dataset, Email has the highest conversion rate, while Google Ads generates the most customers. Improving social media conversion could help increase overall marketing performance.
+
+Google Colab Notebook
+
+"Open the Marketing Funnel Analysis Notebook" (https://colab.research.google.com/drive/1qUvhIrWJVvYgGWR0HGo_qUrYva7UqVTd)
